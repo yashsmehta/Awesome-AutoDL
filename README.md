@@ -254,6 +254,7 @@ Please feel free to [pull requests](https://github.com/D-X-Y/Awesome-AutoDL/pull
 
 
 ## Awesome Surveys
+For a comprehensive list of papers focusing on Neural Architecture Search for Transformer-Based spaces, the [awesome-transformer-search](https://github.com/automl/awesome-transformer-search) repo is all you need.
 
 |  Title  |   Venue  |   Year   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
